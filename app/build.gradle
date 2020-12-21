@@ -38,5 +38,6 @@ dependencies {
     api 'com.squareup.okhttp3:okhttp:3.14.4'
     api 'org.greenrobot:eventbus:3.0.0'
     api files('libs/agora-rtc-sdk.jar')
-    api 'com.github.wanghaofei:udsdkui:1.0'
+//    api 'com.github.wanghaofei:udsdkui:1.0'
+    api 'com.github.wanghaofei:udsdkui:1.1'
 }
